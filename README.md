@@ -1,6 +1,6 @@
 ### Olá, Eu sou o HeithorUrquiza
 
-- 🌱 Estudando: Desenvolvimento Web e aluno de Engenharia de Software
+- 🌱 Estudando: Python e aluno de Engenharia de Software
 - 😄 Pronomes: Ele/Dele
 
 <div>
