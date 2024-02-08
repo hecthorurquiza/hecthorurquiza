@@ -1,6 +1,6 @@
 ### Olá, Eu sou o HeithorUrquiza
 
-- 🌱 Estudando: Python e aluno de Engenharia de Software
+- 🌱 Estudando: Engenharia de Software com foco em Python para Machine Learning, Data Science e Data Engineering
 - 😄 Pronomes: Ele/Dele
 
 <div>
@@ -10,14 +10,14 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Hecthor-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
-  <img align="center" alt="Hecthor-Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original-wordmark.svg"/>
-  <img align="center" alt="Hecthor-Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg"/>
-  <img align="center" alt="Hecthor-Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original-wordmark.svg"/>
-  <img align="center" alt="Hecthor-Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original-wordmark.svg"/>
-  <img align="center" alt="Hecthor-Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"/>
-  <img align="center" alt="Hecthor-Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"/>
-  <img align="center" alt="Hecthor-Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-original-wordmark.svg"/>
+  <img align="center" alt="Hecthor-Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+  <img align="center" alt="Hecthor-Java" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original-wordmark.svg"/>
+  <img align="center" alt="Hecthor-Java" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg"/>
+  <img align="center" alt="Hecthor-Java" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original-wordmark.svg"/>
+  <img align="center" alt="Hecthor-Java" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original-wordmark.svg"/>
+  <img align="center" alt="Hecthor-Java" height="65" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"/>
+  <img align="center" alt="Hecthor-Java" height="65" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"/>
+  <img align="center" alt="Hecthor-Java" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-original-wordmark.svg"/>
 </div>
 
 ##
