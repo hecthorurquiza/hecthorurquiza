@@ -10,8 +10,14 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Hecthor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
-  <img align="center" alt="Hecthor-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg"/>
+  <img align="center" alt="Hecthor-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+  <img align="center" alt="Hecthor-Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original-wordmark.svg"/>
+  <img align="center" alt="Hecthor-Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg"/>
+  <img align="center" alt="Hecthor-Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original-wordmark.svg"/>
+  <img align="center" alt="Hecthor-Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original-wordmark.svg"/>
+  <img align="center" alt="Hecthor-Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"/>
+  <img align="center" alt="Hecthor-Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"/>
+  <img align="center" alt="Hecthor-Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-original-wordmark.svg"/>
 </div>
 
 ##
