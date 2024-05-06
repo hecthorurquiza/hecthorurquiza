@@ -1,28 +1,39 @@
-### Olá, Eu sou o HeithorUrquiza
+<img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
 
-- 🌱 Estudando: Engenharia de Software com foco em Python para Machine Learning, Data Science e Data Engineering
-- 😄 Pronomes: Ele/Dele
+<div align='center'>
 
-<div>
-  <a href="https://github.com/HeithorUrquiza">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HeithorUrquiza&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeithorUrquiza&layout=compact&langs_count=16&theme=tokyonight"/>
+<div align="center">  
+  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=HeithorUrquiza&show_icons=true&count_private=true&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0" /> 
+  
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeithorUrquiza&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0" />
+  
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Hecthor-Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
-  <img align="center" alt="Hecthor-Java" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original-wordmark.svg"/>
-  <img align="center" alt="Hecthor-Java" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg"/>
-  <img align="center" alt="Hecthor-Java" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original-wordmark.svg"/>
-  <img align="center" alt="Hecthor-Java" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original-wordmark.svg"/>
-  <img align="center" alt="Hecthor-Java" height="65" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"/>
-  <img align="center" alt="Hecthor-Java" height="65" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"/>
-  <img align="center" alt="Hecthor-Java" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-original-wordmark.svg"/>
 </div>
 
-##
+<img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
 
-<div>
-  <a href="https://www.linkedin.com/in/hecthor-urquiza-0116a41ba/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> </a>
-  <a href="contato.hecthorur@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"> </a>
-</div>
+<div><br />
+
+## My Stack
+
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,python,django,opencv,java,mysql,mongodb,vscode,git,github&theme=dark" />
+
+## About me
+
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" /> Hello! My name is Heithor Urquiza and I am a Backend Developer. <br />
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" /> My current goal is to get my first job and, in the future, become a Tech Lead.<br />
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> My main stack is Javascript, Node.js, Python, Java and SQL. <br />
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Boy%20Light%20Skin%20Tone.png" alt="Boy Light Skin Tone" width="25" height="25" /> I always try to stay calm and be as patient and respectful as possible, and I love sharing stories and experiences. <br />
+
+<br />
+
+<img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
+
+## Contact me
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hecthor-urquiza-0116a41ba/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](contato.hecthorur@gmail.com)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:3CAAFF,100:5bffff&height=120&section=footer"/>
