@@ -18,7 +18,7 @@
 
 ## My Stack
 
-<img src="https://skillicons.dev/icons?i=ts,js,nodejs,python,java,postgres,sqlite,mongodb,vscode,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=ts,js,python,java,nodejs,spring,express,postgres,mysql,sqlite,mongodb,linux,vscode,git,github&theme=dark" />
 
 ## About me
 
