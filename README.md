@@ -1,4 +1,15 @@
- ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
+ <img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=hecthorurquiza&show_icons=true&count_private=true&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hecthorurquiza&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0" />
+</div>
+
+</div>
+  <img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
+<div>
+
+<br />
 
  | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hecthorurquiza&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hecthorurquiza&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
  | ----------- | ----------- |
